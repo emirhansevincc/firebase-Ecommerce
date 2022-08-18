@@ -43,3 +43,10 @@
     transform: translateY(-2px);
 }
 .price{margin: 10px 0;}
+.icon{margin: 0 0 10px 10px;}
+.icon button{
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    font-size: 20px;
+}
